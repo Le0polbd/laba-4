@@ -14,18 +14,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	};
 
 	typedef struct Pointer ben;
-	struct Triangle
-	{
-		ben a;
-		ben b;
-		ben c;
-		int A;
-		int B;
-		int	C;
-
-		float S;
-		int P;
-	};
+	
  
 	typedef struct Triangle two;
 
